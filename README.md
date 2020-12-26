@@ -18,8 +18,8 @@ You can change the situation here.
 
 ### Permlevels
 
-Permlevels are automatic, whichever authority you write.
-BOT_OWNER only bot developer permission
+- Permlevels are automatic, whichever authority you write.
+- BOT_OWNER only bot developer permission
 
 ### Here are some documents that might be of use to you =>
 https://discord.js.org/<br>
