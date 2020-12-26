@@ -1,0 +1,25 @@
+{
+  "name": "discord-v12-infrastructure",
+  "version": "0.0.1",
+  "description": "Discord.js V12 infrastructure",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Special",
+    "Discord",
+    "V12"
+  ]
+}
