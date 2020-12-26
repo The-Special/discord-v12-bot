@@ -12,8 +12,6 @@ In the Developers section, enter your own discord user id. If there are more tha
 
 Example: ["1.id","2.id","3.id"]
 
-Prefixinizi prefix kısmının tırnak işaretlerinin içine giriyorsunuz prefix nedir komutu kullanırken yazdığımız ön-ek bu şekilde mesajlarımız karışmaz.
-
 > events/ready.js
 <br>
 You can change the situation here.
