@@ -21,6 +21,6 @@ Example: ["1.id","2.id","3.id"]
 - Permlevels are automatic, whichever authority you write.
 - BOT_OWNER only bot developer permission
 
-### Here are some documents that might be of use to you =>
+### Here are some documents that might be of use to you:
 https://discord.js.org/<br>
 https://discordjs.guide/
